@@ -1,0 +1,6 @@
+# Compiled demo binaries (build from source, don't commit)
+/peerauth-demo/peerauth-demo
+/peerauth-demo/legit-client
+/peerauth-demo/impostor-client
+*.log
+*.sock
